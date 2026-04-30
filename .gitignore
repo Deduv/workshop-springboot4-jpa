@@ -1,0 +1,29 @@
+# Build output
+*.class
+bin/
+target/
+
+# Eclipse and Spring Tool Suite
+.metadata/
+.settings/
+.project
+.classpath
+.factorypath
+*.launch
+
+# VS Code
+.vscode/
+
+# Linux temp files
+*.swp
+*~
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+gen/
+
+# Credentials and environment config
+application.properties
+application-*.properties
