@@ -21,8 +21,14 @@ target/
 # IntelliJ IDEA
 .idea/
 *.iml
+*.iws
+*.ipr
 out/
 gen/
+
+# Maven
+HELP.md
+.mvn/wrapper/maven-wrapper.jar
 
 # Credentials and environment config
 application.properties
