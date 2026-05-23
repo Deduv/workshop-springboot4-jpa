@@ -1,0 +1,4 @@
+package com.example.course.services.exceptions;
+
+public class ResourceNotFoundException {
+}
