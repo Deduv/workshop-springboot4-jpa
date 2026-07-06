@@ -38,7 +38,7 @@ Resource Layer  →  Service Layer  →  Data Access Layer
 
 ---
 
-## Estrutura do projet
+## Estrutura do projeto
 
 ```
 course/
